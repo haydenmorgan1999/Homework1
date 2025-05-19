@@ -1,0 +1,37 @@
+---
+title: "Data Science"
+format: html
+editor: visual
+---
+
+## Section 1
+
+**What do you think being a data scientist is about?**
+
+Data scientists are able to leverage programming knowledge to manage, analyze, summarize, and otherwise work with data in a way that is effective and useful to others. Their role stems from the interdisciplinary field of data science, which marries statistics, computing, knowledge of scientific methods, and more in order to interpret data and communicate findings to inform real world implications. 
+
+**What differences/similarities do you see between data scientists and statisticians?**
+
+While staisticians and data scientists both employ mathematical and analytical skills in their roles, data scientists work more broadly than staisticians. Namely, data scientists work with both structured and unstructured data more readily than statisticians, and additionally are more keen to engage in modeling to solve real world problems. While statisticians may be more focused on the science and academic implications involved with their work, data scientists may focus on bigger pictures and even work with more complicated data sets. 
+
+**How do you view yourself in relation to these two areas?**
+
+When thinking about the statistician role versus the data scientist role, I definitely envision myself fitting moreso with the former. I was previously a research assistant at an academic institution and worked with several statisticians across multiple projects. For some projects, my PI and I served in a statistician role instead in order to further our research goals. As I enter a Ph.D. at NC State this fall and join a social science lab, I can see how a statistician skillset might serve my niche better than the skills moreso attributed to data scientists. I am not looking to work with business clients and dive into industry; I aim to remain in academia and perhaps direct practice as a licensed psychologist in the future. 
+
+## Section 2
+
+**The code chunk below creates an R object (y) as instructed by HW1, Step 3. Then, three functions are used to determine the class, type, and structure of y.** 
+```{r}
+y <- density(iris$Petal.Width)
+
+class(y)
+typeof(y)
+str(y)
+```
+
+**Below is the result of using the plot function on y, while hiding the R code from the final document.**
+```{r}
+#| echo: false
+plot(y, main = "Plot of Petal Width")
+```
+---
