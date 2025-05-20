@@ -12,11 +12,31 @@ Data scientists are able to leverage programming knowledge to manage, analyze, s
 
 **What differences/similarities do you see between data scientists and statisticians?**
 
-While statisticians and data scientists both employ mathematical and analytical skills in their roles, data scientists work more broadly than statisticians. Namely, data scientists work with both structured and unstructured data more readily than statisticians, and additionally are more keen to engage in modeling to solve real world problems. While statisticians may be more focused on the science and academic implications involved with their work, data scientists may focus on bigger pictures and even work with more complicated data sets.
+While statisticians and data scientists both employ mathematical and analytical skills in their roles, data scientists work more broadly than statisticians. Namely, data scientists work with both structured and unstructured data more readily than statisticians, and additionally are more keen to engage in modeling to solve real world problems. While statisticians may be more focused on the science and academic implications involved with their work, data scientists may focus on bigger pictures and even work with more complicated data sets. In summary:
+
+*Data Scientist*
+
+-   Structured/unstructured data
+
+-   Create models for data
+
+-   Larger data sets
+
+-   May work within production systems
+
+*Statistician*
+
+-   Unstructured data
+
+-   Bring data to models
+
+-   Smaller data sets
+
+-   May work apart from businesses/companies/productions
 
 **How do you view yourself in relation to these two areas?**
 
-When thinking about the statistician role versus the data scientist role, I definitely envision myself fitting moreso with the former. I was previously a research assistant at an academic institution and worked with several statisticians across multiple projects. For some projects, my PI and I served in the statistician role in order to further our research goals. As I enter a Ph.D. at NC State this fall and join a social science lab, I can see how a statistician skill set might serve my niche better than the skills moreso attributed to data scientists. I am not looking to work with business clients and dive into industry; I aim to remain in academia and perhaps direct practice as a licensed psychologist in the future.
+When thinking about the statistician role versus the data scientist role, I definitely envision myself fitting more so with the former. I was previously a research assistant at an academic institution and worked with several statisticians across multiple projects. For some projects, my PI and I served in the statistician role in order to further our research goals. As I enter a Ph.D. at NC State this fall and join a social science lab, I can see how a statistician skill set might serve my niche better than the skills more so attributed to data scientists. I am not looking to work with business clients and dive into industry; I aim to remain in academia and perhaps direct practice as a licensed psychologist in the future.
 
 ## Section 2
 
